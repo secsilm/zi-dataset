@@ -18,3 +18,7 @@
 | `fc_code`                 | 四角码                                                       | 4040.7               |
 | `cj_code`                 | 仓颉码                                                       | DND                  |
 | `zis_with_this_component` | 包含该字的字，即以该字为部件的字，以英文逗号分隔，不包含本身 | NaN                  |
+
+## WIP
+
+- [ ] 添加笔画顺序
